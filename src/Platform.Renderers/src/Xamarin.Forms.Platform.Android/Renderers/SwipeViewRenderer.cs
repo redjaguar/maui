@@ -786,7 +786,7 @@ namespace Xamarin.Forms.Platform.Android
 						var iconWidth = drawableWidth * iconHeight / drawableHeight;
 						drawable.SetBounds(0, 0, iconWidth, iconHeight);
 					}
-										
+
 					drawable.SetColorFilter(textColor, FilterMode.SrcAtop);
 				}
 
