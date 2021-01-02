@@ -1,3 +1,6 @@
+# This fork was created to adapt GTK support to GTK 3
+GtkSharp library used - https://github.com/GtkSharp/GtkSharp
+
 # Introducing .NET Multi-platform App UI (MAUI)
 
 .NET MAUI is:
